@@ -4,7 +4,7 @@ module.exports = {
     siteUrl: `https://www.yourdomain.tld`,
    
   },
-  pathPrefix: "/gatsby-app",
+  pathPrefix: "/reponame",
 
   plugins: [
     {
