@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_gatsby_site=self.webpackChunkmy_gatsby_site||[]).push([[682],{4633:function(e,t,n){n.r(t);var a=n(7294);t.default=function(){return a.createElement("div",null,a.createElement("h1",null,"This is an about page."))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-22a0a9398e2a9f79a239.js.map
