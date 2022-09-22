@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_gatsby_site=self.webpackChunkmy_gatsby_site||[]).push([[678],{6558:function(e,t,n){n.r(t);var l=n(7294);t.default=function(){return l.createElement("div",null,l.createElement("h1",null,"Hello gatsby.."),l.createElement("p",null,"Now i can understand how to deploy app to gatsby.."))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-e3684af41adf759a01ff.js.map
